@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.eachTabItem {
+  font-family: 'Beer serif';
+  margin-right: 10px;
+  opacity: 0.5;
+}
+.active {
+  color: green;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 900;
+  opacity: 1;
+}
+.tab-button {
+  color: #2563eb;
+  border-style: none;
+  cursor: pointer;
+  text-decoration: underline;
+  font-weight: 900;
+}
+.nonActive {
+  color: #7b8794;
+  border-style: none;
+}
